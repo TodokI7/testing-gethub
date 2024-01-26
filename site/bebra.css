@@ -1,0 +1,75 @@
+.container{
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+
+}
+
+.hero{
+  background-image: url('./fon12.png');
+  height: 100svh;
+  width: 100%;
+  background-size: cover;
+}
+
+.contaxt{
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  padding-block: 2rem;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Montserrat;
+}
+
+.contaxt1{
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  border: 1px solid  white;
+  border-left: none;
+  border-right: none;
+}
+.contaxt11{
+  flex: 1;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border: 1px solid  white;
+  border-top: none;
+  border-bottom: none;
+  border-left: none;
+}
+.contaxt12{
+  flex: 1;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border: 1px solid  white;
+  border-top: none;
+  border-bottom: none;
+}
+.contaxt13{
+  flex: 1;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border: 1px solid  white;
+  border-top: none;
+  border-bottom: none;
+}
+.contaxt14{
+  flex: 1;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  border: 1px solid  white;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+}
