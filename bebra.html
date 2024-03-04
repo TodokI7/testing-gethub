@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Введение в JS</title>
+    <style>
+      .container {
+        margin: auto;
+        width: 500px;
+      }
+      #bg-color {
+        width: 100px;
+        height: 40px;
+      }
+      #content {
+        width: 200px;
+        height: 30px;
+      }
+      .btn {
+        width: 150px;
+        height: 40px;
+        border: none;
+        background-color: red;
+        padding: 5px 10px;
+        border-radius: 5px;
+      }
+      .txt {
+        font-size: 26px;
+        text-align: center;
+      }
+      .block {
+        width: 50px;
+        height: 50px;
+        padding: 40px;
+      }
+      .parent {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        margin: auto;
+        flex-wrap: wrap;
+        width: 1440px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <input type="color" id="bg-color" />
+      <input type="text" id="content" placeholder="НАПИШИ БЕБРУ" />
+      <button class="btn">Click</button>
+    </div>
+    <div class="parent"></div>
+    <script src="app.js"></script>
+  </body>
+</html>
