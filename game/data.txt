@@ -1,0 +1,61 @@
+admin password: 1258
+pp: 0000000
+Piano
+maps/list1/Piano
+maps/list1/Piano/bruh.jpg
+maps/list1/Piano/menu.mp3
+Panda
+maps/list1/Kakuzetsu Thanatos
+maps/list1/Kakuzetsu Thanatos/BG.JPG
+maps/list1/Kakuzetsu Thanatos/audio.mp3
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
+
+-
+
+
